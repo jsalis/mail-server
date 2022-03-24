@@ -737,6 +737,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "mail_server"
+version = "0.1.0"
+dependencies = [
+ "actix-web",
+ "reqwest",
+ "tokio",
+]
+
+[[package]]
 name = "matches"
 version = "0.1.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1204,15 +1213,6 @@ dependencies = [
  "redox_syscall",
  "remove_dir_all",
  "winapi",
-]
-
-[[package]]
-name = "test_rust"
-version = "0.1.0"
-dependencies = [
- "actix-web",
- "reqwest",
- "tokio",
 ]
 
 [[package]]

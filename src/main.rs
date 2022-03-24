@@ -1,5 +1,5 @@
 use std::net::TcpListener;
-use test_rust::run;
+use mail_server::run;
 
 #[tokio::main]
 async fn main() -> std::io::Result<()> {

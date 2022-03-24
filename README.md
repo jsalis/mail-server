@@ -1,4 +1,4 @@
-# test-rust
+# mail-server
 
 ## Installation
 
