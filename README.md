@@ -3,6 +3,7 @@
 ## Installation
 
 - [Rust](https://rustup.rs/)
+- [Docker](https://docs.docker.com/engine/install/)
 
 ## Development
 
